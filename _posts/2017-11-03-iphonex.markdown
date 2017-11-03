@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Wating!"
+date:   2017-10-23 10:26:16 -0400
+categories: jekyll update
+---
+
+Just waiting for the new iPhone and trying a new idea....
