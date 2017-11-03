@@ -1,0 +1,9 @@
+---
+layout: post
+title:  
+type: mini
+date:   2017-10-23 10:26:16 -0400
+categories: jekyll update
+---
+
+This is my post!
